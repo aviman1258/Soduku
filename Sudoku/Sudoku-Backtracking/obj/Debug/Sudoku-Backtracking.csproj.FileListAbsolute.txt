@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\bin\Debug\Sudoku-Backtracking.exe.config
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\bin\Debug\Sudoku-Backtracking.exe
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\bin\Debug\Sudoku-Backtracking.pdb
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\obj\Debug\Sudoku-Backtracking.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\obj\Debug\Sudoku-Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\obj\Debug\Sudoku-Backtracking.exe
+C:\Users\achan\source\repos\Sudoku\Sudoku-Backtracking\obj\Debug\Sudoku-Backtracking.pdb

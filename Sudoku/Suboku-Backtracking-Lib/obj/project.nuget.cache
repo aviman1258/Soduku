@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cl1xmhoQ+8595NWohjUaTJFR5f7oiNtOt4ZwLU9z599a8ImVi38OrPdy+KUJQXnMdnXzv/W0gk++TBi/6L6zIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\achan\\source\\repos\\Sudoku\\Suboku-Backtracking-Lib\\Suboku-Backtracking-Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\achan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\achan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

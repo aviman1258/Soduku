@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku-Backtracking", "Sudoku-Backtracking\Sudoku-Backtracking.csproj", "{94C4C154-4BE0-4F31-86A3-B884829E7065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suboku-Backtracking-Lib", "Suboku-Backtracking-Lib\Suboku-Backtracking-Lib.csproj", "{926B3063-7E2B-4463-80AC-E01813B40E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C4C154-4BE0-4F31-86A3-B884829E7065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C4C154-4BE0-4F31-86A3-B884829E7065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C4C154-4BE0-4F31-86A3-B884829E7065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C4C154-4BE0-4F31-86A3-B884829E7065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926B3063-7E2B-4463-80AC-E01813B40E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926B3063-7E2B-4463-80AC-E01813B40E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926B3063-7E2B-4463-80AC-E01813B40E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926B3063-7E2B-4463-80AC-E01813B40E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EAD836A-F181-4E1F-B9E8-7C72489B517E}
+	EndGlobalSection
+EndGlobal
